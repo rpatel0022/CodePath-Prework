@@ -17,19 +17,17 @@ The following **required** functionality is completed:
 
 Here's a walkthrough of implemented user stories:
 
-<img src='https://imgur.com/a/nIaBke4' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src='http://i.imgur.com/a/nIaBke4.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 <!-- Replace this with whatever GIF tool you used! -->
 GIF created with ...  
-<!--[Kap](https://getkap.co/) for macOS-->
+[Kap](https://getkap.co/) for macOS
 
 
 <!-- Recommended tools:
 [Kap](https://getkap.co/) for macOS
 [ScreenToGif](https://www.screentogif.com/) for Windows
 [peek](https://github.com/phw/peek) for Linux. -->
-
-## App Brainstorming (Step 4)
 
 ## Notes
 

@@ -1,8 +1,8 @@
-# Prework - *Name of App Here*
+# IOS Prework
 
 Submitted by: Rushi Patel
 
-Code Path Pre Work is an app that... [TODO] 
+Code Path Pre Work is an app that changes color of the background once clicked on the change button
 
 Time spent: 4 hours spent in total
 
